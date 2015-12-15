@@ -1,6 +1,6 @@
 # Tetris
 
-Tetris is a simple tertis game project in c# using windows web form. Done it for CSE 471 Advanced Object-Oriented Programming Course.
+Simple tertis game project in c# using windows web form. Done it for CSE 471 Advanced Object-Oriented Programming Course.
 
 Version 1.0
 
